@@ -1,1 +1,2 @@
 Build help functions
+Modif from John
